@@ -102,3 +102,14 @@ body {
     display: block;
     margin-left: auto;
 }
+
+.curseforgedownload {
+    font-family: "Parkinsans", serif;
+    background-color: rgb(32, 32, 32);
+    border-color: orange;
+    color: white;
+    border-radius: 16px;
+    width: 300px;
+    height: 75px;
+    font-size: 24px;
+}
